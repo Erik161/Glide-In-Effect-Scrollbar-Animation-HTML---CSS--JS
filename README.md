@@ -1,7 +1,7 @@
 # 🔮 Glide-In-Effect-Scrollbar-Animation-HTML-CSS-JS [:arrow_right: PREVIEW :arrow_left:](https://erik161.github.io/Glide-In-Effect-Scrollbar-Animation-HTML---CSS--JS/)
 we will create a Glide In effect using HTML CSS JS
 
-
+ 
 
 
 
